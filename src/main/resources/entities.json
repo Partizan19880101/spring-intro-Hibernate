@@ -1,0 +1,26 @@
+{
+  "user1": {
+    "name": "Ivan",
+    "email": "ivan@mail.ru"
+  },
+  "user2": {
+    "name": "Petr",
+    "email": "Petr@mail.ru"
+  },
+  "user3": {
+    "name": "Sidor",
+    "email": "sidor@mail.ru"
+  },
+  "event1": {
+    "title": "Nutcracker",
+    "date": "2021-20-07 19:00 PM CEST"
+  },
+  "event2": {
+    "title": "Swan Lake",
+    "date": "2021-27-07 19:00 PM CEST"
+  },
+  "event3": {
+    "title": "The Hunchback of Notre-Dame",
+    "date": "2021-28-07 19:00 PM CEST"
+  }
+}

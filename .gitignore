@@ -1,0 +1,11 @@
+
+# Package Files #
+*.jar
+*.war
+*.ear
+target/
+test-output/
+
+# Idea
+.idea/
+*.iml
